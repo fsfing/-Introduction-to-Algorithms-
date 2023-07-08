@@ -1,4 +1,11 @@
 # -Introduction-to-Algorithms-
-算法导论解读--中文版
 注: 内容是摘取原书、网络等各种参考，可能无法涉及到所有，请谅解。
-## 第一章 算法在计算中的作用
+算法导论(Introduction to Algorithms)是麻省理工学院出版社出版的关于计算机中数据结构与算法的书籍，
+作者分别是托马斯·科尔曼(Thomas H. Cormen)、查尔斯·雷瑟尔森(Charles E. Leiserson)、罗纳德·李维斯特(Ronald L. Rivest)、克利福德·斯坦(Clifford Stein)。
+
+英文版第四版下载地址：https://drive.google.com/file/d/1U0bJ9olzCuxRCR9cjWYL6hfAj-A5Lfhv/view?usp=sharing
+
+章节目录：
+第一章  算法在计算中的作用
+第二章  开始入门
+第三章  描述运行时间
